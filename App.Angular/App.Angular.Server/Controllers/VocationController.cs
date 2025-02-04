@@ -5,8 +5,8 @@ using TaskApp.Application.Models;
 
 namespace App.Angular.Server.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("[controller]")]
     public class VocationController : ControllerBase
     {
         private readonly IVocationService _vocationService;
@@ -37,7 +37,7 @@ namespace App.Angular.Server.Controllers
             return Ok(addedVocation);
         }
 
-        [HttpPut]
+        [HttpPut("{id}")]
         public async Task<IActionResult> UpdateVocation([FromBody] VocationDto vocationDto)
         {
             var updated = await _vocationService.UpdateVocationAsync(vocationDto);

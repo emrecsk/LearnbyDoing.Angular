@@ -19,7 +19,7 @@ namespace TaskApp.Application.Services
         {
             Vocation vocation = new Vocation
             {
-                Title = vocationDto.Name,
+                Title = vocationDto.Title,
                 Description = vocationDto.Description,
                 CreatedAt = DateTime.Today,
                 UpdatedAt = DateTime.Today,
@@ -47,7 +47,7 @@ namespace TaskApp.Application.Services
 
         public async Task<VocationDto> GetVocationByIdAsync(int id)
         {
-            VocationDto vocationDto = new() { Name = string.Empty, Description = string.Empty };
+            VocationDto vocationDto = new() { Title = string.Empty, Description = string.Empty };
 
             var vocation = await _vocationRepository.GetByIdAsync(id);
 
@@ -56,7 +56,8 @@ namespace TaskApp.Application.Services
                 return vocationDto;
             }
 
-            vocationDto.Name = vocation.Title;
+            vocationDto.Id = vocation.Id;
+            vocationDto.Title = vocation.Title;
             vocationDto.Description = vocation.Description;
             vocationDto.StartDate = vocation.CreatedAt;
             vocationDto.EndDate = vocation.UpdatedAt;
@@ -75,7 +76,8 @@ namespace TaskApp.Application.Services
             {
                 VocationDto vocationDto = new()
                 {
-                    Name = vocation.Title,
+                    Id = vocation.Id,
+                    Title = vocation.Title,
                     Description = vocation.Description,
                     StartDate = vocation.CreatedAt,
                     EndDate = vocation.UpdatedAt,
@@ -96,7 +98,7 @@ namespace TaskApp.Application.Services
                 return false;
             }
 
-            vocation.Title = vocationDto.Name;
+            vocation.Title = vocationDto.Title;
             vocation.Description = vocationDto.Description;
             vocation.UpdatedAt = DateTime.Today;
             vocation.Status = vocationDto.Status;

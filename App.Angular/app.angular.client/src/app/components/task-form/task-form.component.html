@@ -1,0 +1,33 @@
+<div class="container">
+    <h2>{{ isEditMode ? 'Edit Task' : 'Create Task' }}</h2>
+    <form (ngSubmit)="saveTask()">
+        <div class="mb-3">
+            <label>Title</label>
+            <input [(ngModel)]="task.title" name="title" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label>Description</label>
+            <textarea [(ngModel)]="task.description" name="description" class="form-control" required></textarea>
+        </div>
+        <div class="mb-3">
+            <label>Status</label>
+            <select [(ngModel)]="task.status" name="status" class="form-control">
+                <option *ngFor="let key of statusKeys" [ngValue]="getEnumValue(key)">{{ key }}</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label>Start Date</label>
+            <input [(ngModel)]="task.startDate" name="startDate" type="date" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label>End Date</label>
+            <input [(ngModel)]="task.endDate" name="endDate" type="date" class="form-control" required />
+        </div>
+
+        <div *ngIf="isEditMode">
+            <input type="hidden" [(ngModel)]="task.id" name="id" />
+        </div>
+        <button type="submit" class="btn btn-success">Save</button>
+        <button type="button" class="btn btn-secondary" routerLink="/">Cancel</button>
+    </form>
+</div>
