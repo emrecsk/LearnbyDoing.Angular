@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "AngularProject",
+    "Projects": [
+      {
+        "Path": "App.Angular\\app.angular.client\\app.angular.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "App.Angular\\App.Angular.Server\\App.Angular.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

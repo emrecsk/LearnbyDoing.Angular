@@ -1,9 +1,12 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { NewPageComponent } from './new-page/new-page.component'
+import { TaskListComponent } from './components/task-list/task-list.component';
+import { TaskFormComponent } from './components/task-form/task-form.component';
 
 const routes: Routes = [
-  { path: 'new-page', component: NewPageComponent }
+  { path: '', component: TaskListComponent },
+  { path: 'task-form', component: TaskFormComponent },
+  { path: 'task-form/:id', component: TaskFormComponent }
 ];
 
 @NgModule({

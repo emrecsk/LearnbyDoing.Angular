@@ -26,6 +26,7 @@ C:\Users\10123083\source\personal_repos\LearnbyDoing.Angular\App.Angular\TaskApp
 C:\Users\10123083\source\personal_repos\LearnbyDoing.Angular\App.Angular\TaskApp.Infrastructure\obj\Debug\net9.0\TaskApp.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\10123083\source\personal_repos\LearnbyDoing.Angular\App.Angular\TaskApp.Infrastructure\obj\Debug\net9.0\TaskApp.Infrastructure.AssemblyInfo.cs
 C:\Users\10123083\source\personal_repos\LearnbyDoing.Angular\App.Angular\TaskApp.Infrastructure\obj\Debug\net9.0\TaskApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\10123083\source\personal_repos\LearnbyDoing.Angular\App.Angular\TaskApp.Infrastructure\obj\Debug\net9.0\TaskApp.Infrastructure.sourcelink.json
 C:\Users\10123083\source\personal_repos\LearnbyDoing.Angular\App.Angular\TaskApp.Infrastructure\obj\Debug\net9.0\TaskApp..10542405.Up2Date
 C:\Users\10123083\source\personal_repos\LearnbyDoing.Angular\App.Angular\TaskApp.Infrastructure\obj\Debug\net9.0\TaskApp.Infrastructure.dll
 C:\Users\10123083\source\personal_repos\LearnbyDoing.Angular\App.Angular\TaskApp.Infrastructure\obj\Debug\net9.0\refint\TaskApp.Infrastructure.dll

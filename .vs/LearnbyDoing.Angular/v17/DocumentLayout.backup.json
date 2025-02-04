@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4779993-2487-4D60-9DC3-67CD26E69BE6}|App.Angular\\App.Angular.Server\\App.Angular.Server.csproj|c:\\users\\10123083\\source\\personal_repos\\learnbydoing.angular\\app.angular\\app.angular.server\\controllers\\vocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4779993-2487-4D60-9DC3-67CD26E69BE6}|App.Angular\\App.Angular.Server\\App.Angular.Server.csproj|solutionrelative:app.angular\\app.angular.server\\controllers\\vocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|c:\\users\\10123083\\source\\personal_repos\\learnbydoing.angular\\app.angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|solutionrelative:app.angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|c:\\users\\10123083\\source\\personal_repos\\learnbydoing.angular\\app.angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|solutionrelative:app.angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|c:\\users\\10123083\\source\\personal_repos\\learnbydoing.angular\\app.angular\\app.angular.client\\src\\app\\models\\task.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|solutionrelative:app.angular\\app.angular.client\\src\\app\\models\\task.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|c:\\users\\10123083\\source\\personal_repos\\learnbydoing.angular\\app.angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|solutionrelative:app.angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|c:\\users\\10123083\\source\\personal_repos\\learnbydoing.angular\\app.angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|solutionrelative:app.angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|c:\\users\\10123083\\source\\personal_repos\\learnbydoing.angular\\app.angular\\app.angular.client\\src\\app\\models\\status.enum.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|solutionrelative:app.angular\\app.angular.client\\src\\app\\models\\status.enum.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA2CFEC-34E4-460F-A740-EECD91977FCA}|App.Angular\\TaskApp.Application\\TaskApp.Application.csproj|c:\\users\\10123083\\source\\personal_repos\\learnbydoing.angular\\app.angular\\taskapp.application\\services\\vocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA2CFEC-34E4-460F-A740-EECD91977FCA}|App.Angular\\TaskApp.Application\\TaskApp.Application.csproj|solutionrelative:app.angular\\taskapp.application\\services\\vocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|c:\\users\\10123083\\source\\personal_repos\\learnbydoing.angular\\app.angular\\app.angular.client\\src\\app\\services\\task.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{14D38EB6-163B-EDB7-61B3-9995CDF1B68B}|App.Angular\\app.angular.client\\app.angular.client.esproj|solutionrelative:app.angular\\app.angular.client\\src\\app\\services\\task.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 2558,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +75,123 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task-form.component.html",
+              "DocumentMoniker": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.html",
+              "RelativeDocumentMoniker": "App.Angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.html",
+              "ToolTip": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.html",
+              "RelativeToolTip": "App.Angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-03T12:52:55.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VocationService.cs",
+              "DocumentMoniker": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\TaskApp.Application\\Services\\VocationService.cs",
+              "RelativeDocumentMoniker": "App.Angular\\TaskApp.Application\\Services\\VocationService.cs",
+              "ToolTip": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\TaskApp.Application\\Services\\VocationService.cs",
+              "RelativeToolTip": "App.Angular\\TaskApp.Application\\Services\\VocationService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAWwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:45:32.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VocationController.cs",
+              "DocumentMoniker": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\App.Angular.Server\\Controllers\\VocationController.cs",
+              "RelativeDocumentMoniker": "App.Angular\\App.Angular.Server\\Controllers\\VocationController.cs",
+              "ToolTip": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\App.Angular.Server\\Controllers\\VocationController.cs",
+              "RelativeToolTip": "App.Angular\\App.Angular.Server\\Controllers\\VocationController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:45:12.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task-form.component.ts",
+              "DocumentMoniker": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.ts",
+              "RelativeDocumentMoniker": "App.Angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.ts",
+              "ToolTip": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.ts",
+              "RelativeToolTip": "App.Angular\\app.angular.client\\src\\app\\components\\task-form\\task-form.component.ts",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T12:42:24.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "task.service.ts",
+              "DocumentMoniker": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\services\\task.service.ts",
+              "RelativeDocumentMoniker": "App.Angular\\app.angular.client\\src\\app\\services\\task.service.ts",
+              "ToolTip": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\services\\task.service.ts",
+              "RelativeToolTip": "App.Angular\\app.angular.client\\src\\app\\services\\task.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T12:07:08.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "status.enum.ts",
+              "DocumentMoniker": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\models\\status.enum.ts",
+              "RelativeDocumentMoniker": "App.Angular\\app.angular.client\\src\\app\\models\\status.enum.ts",
+              "ToolTip": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\models\\status.enum.ts",
+              "RelativeToolTip": "App.Angular\\app.angular.client\\src\\app\\models\\status.enum.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T12:06:54.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task.ts",
+              "DocumentMoniker": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\models\\task.ts",
+              "RelativeDocumentMoniker": "App.Angular\\app.angular.client\\src\\app\\models\\task.ts",
+              "ToolTip": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\models\\task.ts",
+              "RelativeToolTip": "App.Angular\\app.angular.client\\src\\app\\models\\task.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T12:06:31.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "task-list.component.html",
+              "DocumentMoniker": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.html",
+              "RelativeDocumentMoniker": "App.Angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.html",
+              "ToolTip": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.html",
+              "RelativeToolTip": "App.Angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-03T12:06:11.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.ts",
+              "RelativeDocumentMoniker": "App.Angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.ts",
+              "ToolTip": "C:\\Users\\10123083\\source\\personal_repos\\LearnbyDoing.Angular\\App.Angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.ts",
+              "RelativeToolTip": "App.Angular\\app.angular.client\\src\\app\\components\\task-list\\task-list.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-03T12:06:12.134Z",
+              "EditorCaption": ""
             }
           ]
         }

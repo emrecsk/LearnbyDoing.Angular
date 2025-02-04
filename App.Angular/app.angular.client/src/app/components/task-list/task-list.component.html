@@ -1,0 +1,25 @@
+<div class="container">
+    <h2>Task List</h2>
+    <button class="btn btn-primary" routerLink="/task-form">Add Task</button>
+    <table *ngIf="tasks" class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let task of tasks">
+                <td>{{ task.title }}</td>
+                <td>{{ task.description }}</td>
+                <td>{{ Status[task.status] }}</td>
+                <td>
+                    <button [routerLink]="['/task-form', task.id]" class="btn btn-warning">Edit</button>
+                    <button (click)="deleteTask(task.id!)" class="btn btn-danger">Delete</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
